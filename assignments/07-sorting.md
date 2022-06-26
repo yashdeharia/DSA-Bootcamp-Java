@@ -10,7 +10,7 @@
 
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/) [amazon]
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
